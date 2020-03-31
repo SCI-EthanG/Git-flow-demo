@@ -1,3 +1,3 @@
 // done
-const a = 1;
-const b = 1;
+const a = 9;
+const b = 9;
